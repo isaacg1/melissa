@@ -2,8 +2,8 @@
 
 For https://puzzling.stackexchange.com/q/125960/2187
 
-    $ c r --release 0 100000000
-
+    $ cargo run --release 0 100000000
+    
     1: 4-4
     2: 8-9
     3: 8-10
